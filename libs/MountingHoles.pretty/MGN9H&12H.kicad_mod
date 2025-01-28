@@ -1,0 +1,135 @@
+(footprint "MGN9H&12H"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.1 -24.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "eb78f4f0-6d19-4a4e-aebf-0b43a20b33dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "MGN9H&12H"
+		(at 0 18.65 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "66ee72f6-c8d5-4fb7-865c-860f0cda598d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 17.65 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "33894b4a-214e-4988-9344-d999e6bc666c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 17.65 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f7899a41-90d6-477b-9f9f-88c6c580c04d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 17.65 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "de4a2bd9-e3d5-4716-ba51-fb33a7b19261")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -1 1.25)
+		(end 0.5 1.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "257f2b22-0cee-4330-b975-e233bc5ae9c2")
+	)
+	(fp_circle
+		(center -1 1.25)
+		(end 2 1.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "2f2a270d-b096-44e3-8f29-628810a9ed7a")
+	)
+	(fp_circle
+		(center 1 -1.25)
+		(end 2.5 -1.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "0cac13de-1d1f-4d09-bfce-3dcd3536a150")
+	)
+	(fp_circle
+		(center 1 -1.25)
+		(end 4 -1.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "32dd27a5-3e7e-4d48-806d-9b83e9263ab8")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 20.15 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2d4f0c18-6b7e-441b-b2cc-c5cea0d71bea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 0 0 51.3)
+		(size 7 3.8)
+		(drill oval 6.402 3.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "68ee3294-b8d5-4b36-b555-3ca0c0e852e6")
+	)
+)

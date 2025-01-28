@@ -1,0 +1,100 @@
+(footprint "Belt Mount"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -17.85 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "16a382c2-c769-48b4-a9b9-2ac53ef88659")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Belt Mount"
+		(at 0 19.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e5b71439-09e6-4b8d-8c3f-aa83ec6c9499")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 18.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c2e58590-f429-4c30-bbcc-e5d5a76aeb3f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 18.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "52651655-8e1b-4d5b-b11c-d5a7b69c9bee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 18.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "722f3f6b-66a3-46f6-b7f8-4ec5e42ba2eb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "${REFERENCE}"
+		(at 0 21.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1d21c383-bb19-46ba-bee5-3fa78c2ca66a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 0 -5)
+		(size 3.8 8.6)
+		(drill oval 3.2 8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "7c07272a-6f24-40b8-9bc9-5a16b1cfb1af")
+	)
+	(pad "1" thru_hole oval
+		(at 0 5)
+		(size 3.8 8.6)
+		(drill oval 3.2 8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "e4d999c9-acee-4aa2-ad16-b783382fa68e")
+	)
+)

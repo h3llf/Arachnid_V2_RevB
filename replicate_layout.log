@@ -1,0 +1,273 @@
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'linux'
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910]'
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 8.0.6
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 3.0.3
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x76a92c2ea210>
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with J49 as a reference
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'J49'
+Located on: ['DriverConnector']
+With filenames: ['DriverConnector.kicad_sch']
+With sheet_id:['DriverConnector']
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('J48', ['DriverConnector7']), ('J45', ['DriverConnector6']), ('J42', ['DriverConnector5']), ('J39', ['DriverConnector4']), ('J36', ['DriverConnector3']), ('J33', ['DriverConnector2']), ('J30', ['DriverConnector1']), ('J49', ['DriverConnector'])]
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'DriverConnector', file:'DriverConnector.kicad_sch'
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[['DriverConnector1'], ['DriverConnector2'], ['DriverConnector3'], ['DriverConnector4'], ['DriverConnector5'], ['DriverConnector6'], ['DriverConnector7']]
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1507:Level selected: ['DriverConnector']
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(2526, 98)
+11-21 23:20:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(2087, 98)
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'DriverConnector', file:'DriverConnector.kicad_sch'
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[['DriverConnector1'], ['DriverConnector2'], ['DriverConnector3'], ['DriverConnector4'], ['DriverConnector5'], ['DriverConnector6'], ['DriverConnector7']]
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 240:Replicating layout
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 288:Starting replication of sheets: [['DriverConnector1'], ['DriverConnector2'], ['DriverConnector3'], ['DriverConnector4'], ['DriverConnector5'], ['DriverConnector6'], ['DriverConnector7']]
+on level: ['DriverConnector']
+with tracks=True, zone=True, text=True, text=True, intersecting=False, remove=False, locked footprints=False, group_only=False
+11-21 23:20:03 root 332:updating GUI message: 'Preparing for replication'
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 358:Getting the list of source footprints
+11-21 23:20:03 root 337:updating GUI with: 0
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 368:Getting the list of all the remaining footprints
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 375:Getting source tracks
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 379:Getting source zones
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 383:Getting source text items
+11-21 23:20:03 root 337:updating GUI with: 66
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 387:Getting source drawing items
+11-21 23:20:03 root 332:updating GUI message: 'Replicating footprints'
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 861:Replicating footprints
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 868:Replicating footprints on sheet ['DriverConnector1']
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:0a0745d8-713f-4b71-bd14-2594992b0466
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:badc3672-20c5-468d-943f-90e287b5ab57
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:a33bfa89-9175-4f1f-9740-b11700d9c26f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:2a9994c8-f7ca-40a2-9727-f7b1da8edacc
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:8228cb16-87f9-4b81-9521-329851cfd224
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:087cebb2-6b08-40eb-b553-94baaa144028
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:72b17e55-5857-4001-a1c4-3f0cb4e2cb5f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:5bbeac8c-76b0-4464-9f3d-dbec15257009
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:7e686710-e9fa-4a70-a46e-5157f482622f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:354dcc3e-412f-4d79-9bb8-f969af14e3e8
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:77071e0b-1f9d-4768-a2a3-153fb5b9fff2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:631c1d46-5e3d-430a-9229-8cbbaa3a2941
+11-21 23:20:03 root 337:updating GUI with: 10
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:2f29d23d-2a22-4e58-af5a-6d2ac9991ef5
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:eb204633-edf9-45cf-8437-e47ea122f01c
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:c92ff84b-1002-4a50-97de-ecf931db50e2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:2aec743d-fd8f-45f2-86f8-9a424f6d95d8
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ec2ce3e4-e070-451b-bacd-a0b8fb20f506
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:fe471106-563d-4d39-8d4b-40fd953ee01b
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:62b5c565-5e48-4f5f-befa-f0d0b53d22a9
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:b672f616-3742-4f51-bd0f-22f33084acd3
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:839c58e3-f586-4065-8867-bc38c81de013
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:23dcfbea-4dce-4f53-b84b-a26aceef4714
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ee51be91-168f-4452-9ccc-99f11603330e
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:84167e28-caaf-49c9-a78e-d4beaf318c1b
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 868:Replicating footprints on sheet ['DriverConnector2']
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:0a0745d8-713f-4b71-bd14-2594992b0466
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:d1b7825b-d6e8-4121-842c-c3941c18e679
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:a33bfa89-9175-4f1f-9740-b11700d9c26f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:db53b4de-4e22-456a-b850-4490781c778c
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:8228cb16-87f9-4b81-9521-329851cfd224
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:6e8d95d6-a045-452b-9779-efcd4f6a5274
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:72b17e55-5857-4001-a1c4-3f0cb4e2cb5f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:7806870f-943c-445f-9937-0b4dbe957b86
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:7e686710-e9fa-4a70-a46e-5157f482622f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:e085164d-fa4f-4010-b436-57a2f6084542
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:77071e0b-1f9d-4768-a2a3-153fb5b9fff2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:7ae9f275-e0e8-438c-9614-2907c5ac2df9
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:2f29d23d-2a22-4e58-af5a-6d2ac9991ef5
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:53ec6f16-b958-4952-a770-d1b8720a5c41
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:c92ff84b-1002-4a50-97de-ecf931db50e2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:732cce4c-483d-448d-8bf0-a2fac512943b
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ec2ce3e4-e070-451b-bacd-a0b8fb20f506
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:c845aa68-d52d-4dbd-b4ea-9e66ab37be31
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:62b5c565-5e48-4f5f-befa-f0d0b53d22a9
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:f7389980-d0d6-4787-9742-77081422ada5
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:839c58e3-f586-4065-8867-bc38c81de013
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:d9607237-6b3d-4236-9479-cb48d63c9234
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ee51be91-168f-4452-9ccc-99f11603330e
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:08607416-9611-4655-bcf6-766bd30c728b
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 868:Replicating footprints on sheet ['DriverConnector3']
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:0a0745d8-713f-4b71-bd14-2594992b0466
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:f6b63a91-5124-4ab7-a64e-fdecff062e27
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:a33bfa89-9175-4f1f-9740-b11700d9c26f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:917959d0-f694-43fd-9da0-d225e855d04a
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:8228cb16-87f9-4b81-9521-329851cfd224
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:5b5ebb37-29ae-4c6c-b9fd-4b1f66dfedd8
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:72b17e55-5857-4001-a1c4-3f0cb4e2cb5f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:f5268809-cd2b-439f-868c-5d5def403a58
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:7e686710-e9fa-4a70-a46e-5157f482622f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:9ae3af61-aed2-4366-8596-f50bc2e9cdc5
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:77071e0b-1f9d-4768-a2a3-153fb5b9fff2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:eca6e470-b9d3-436e-8478-a1a7d4b7e75d
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:2f29d23d-2a22-4e58-af5a-6d2ac9991ef5
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:4279f58a-1fef-4d76-b0f4-7f26bd89b5b3
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:c92ff84b-1002-4a50-97de-ecf931db50e2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:32214e8c-66e9-4a87-809c-1c32c9e7d3f6
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ec2ce3e4-e070-451b-bacd-a0b8fb20f506
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:2e5e6f31-ec5a-467b-aad0-306a158379ab
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:62b5c565-5e48-4f5f-befa-f0d0b53d22a9
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:195b7ca1-e9ca-412f-9b5f-ed1a5ee7b68b
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:839c58e3-f586-4065-8867-bc38c81de013
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:69fbe0d3-a4e7-4424-b441-7cd12b14a65f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ee51be91-168f-4452-9ccc-99f11603330e
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:bd2cd58d-d04f-41e6-a85f-ddbade35a6d7
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 868:Replicating footprints on sheet ['DriverConnector4']
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:0a0745d8-713f-4b71-bd14-2594992b0466
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:486583d4-dd07-46b5-8172-331495292efb
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:a33bfa89-9175-4f1f-9740-b11700d9c26f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:85ef35d0-4974-4c97-8f8b-987cd2027a97
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:8228cb16-87f9-4b81-9521-329851cfd224
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:874d479e-5981-4b90-b2df-f5564ae022e8
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:72b17e55-5857-4001-a1c4-3f0cb4e2cb5f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:32ced869-bc3d-4fde-a4cb-e0220a962244
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:7e686710-e9fa-4a70-a46e-5157f482622f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:da4f4363-c16c-4432-89b4-d1616399c46a
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:77071e0b-1f9d-4768-a2a3-153fb5b9fff2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:c6074de7-bebf-42c0-9046-a4676cc78300
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:2f29d23d-2a22-4e58-af5a-6d2ac9991ef5
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:e00b6537-2748-4dac-93bc-766fb2fe2d44
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:c92ff84b-1002-4a50-97de-ecf931db50e2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:3feda4ac-ebb4-4355-8a2e-65cbe4660cd3
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ec2ce3e4-e070-451b-bacd-a0b8fb20f506
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:ae064b04-6149-4e47-bd06-56ebb6623c45
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:62b5c565-5e48-4f5f-befa-f0d0b53d22a9
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:5ed13fdd-c05e-462a-ace0-19bf2b69c5f7
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:839c58e3-f586-4065-8867-bc38c81de013
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:f109d732-5fc8-462a-847b-6ab90c6447fa
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ee51be91-168f-4452-9ccc-99f11603330e
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:e1d8047c-41fd-4986-bc79-55e1e0f28e8f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 868:Replicating footprints on sheet ['DriverConnector5']
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:0a0745d8-713f-4b71-bd14-2594992b0466
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:41ed95e8-ba92-43d7-b928-5ae71dee91bb
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:a33bfa89-9175-4f1f-9740-b11700d9c26f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:4620a2d7-4f89-42d7-9848-1194e4daa57d
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:8228cb16-87f9-4b81-9521-329851cfd224
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:3880ea90-b7d6-4bf6-b43c-9efd1cf2ddea
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:72b17e55-5857-4001-a1c4-3f0cb4e2cb5f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:f8204031-2f68-4a3c-96dd-d55f8c41ac75
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:7e686710-e9fa-4a70-a46e-5157f482622f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:77f7a134-eb3e-4c1d-8699-4cc06d1f44db
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:77071e0b-1f9d-4768-a2a3-153fb5b9fff2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:a2b5e50f-3213-4001-8639-1236f5110d87
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:2f29d23d-2a22-4e58-af5a-6d2ac9991ef5
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:3cdf8c58-2848-4d2c-8bd1-50d4dd154123
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:c92ff84b-1002-4a50-97de-ecf931db50e2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:6066474c-4c29-4965-874d-4ef3170ae051
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ec2ce3e4-e070-451b-bacd-a0b8fb20f506
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:365bc5d4-535f-494c-bd44-f1b50ea34630
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:62b5c565-5e48-4f5f-befa-f0d0b53d22a9
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:fb3e468b-d4e3-4f8c-a49a-1a1663458a17
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:839c58e3-f586-4065-8867-bc38c81de013
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:09950fdf-0172-4537-8e9b-7f03e3937d75
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ee51be91-168f-4452-9ccc-99f11603330e
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:9e8537ea-ba89-4b24-b67b-9f52c0d688c2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 868:Replicating footprints on sheet ['DriverConnector6']
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:0a0745d8-713f-4b71-bd14-2594992b0466
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:45a57b5b-a402-4968-bc32-ce1a1bf71bcc
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:a33bfa89-9175-4f1f-9740-b11700d9c26f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:346b1f9e-4c91-4d4f-b29a-06a7aa3008eb
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:8228cb16-87f9-4b81-9521-329851cfd224
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:e2480ee8-c042-45b8-96cd-7a25b35bec0b
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:72b17e55-5857-4001-a1c4-3f0cb4e2cb5f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:0d63f5a3-89f6-4816-9190-f40636f08ab9
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:7e686710-e9fa-4a70-a46e-5157f482622f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:d250b3e0-96f8-4adf-ad68-11c1a103b983
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:77071e0b-1f9d-4768-a2a3-153fb5b9fff2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:f636851c-3e2d-4ee3-91cf-b9803ab19a86
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:2f29d23d-2a22-4e58-af5a-6d2ac9991ef5
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:5592bef1-fbca-43ef-bd5a-fa5a1d234f67
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:c92ff84b-1002-4a50-97de-ecf931db50e2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:49ba2c80-2ba1-480a-97f2-d9398fd49bda
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ec2ce3e4-e070-451b-bacd-a0b8fb20f506
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:0b335ea5-12dc-4efb-8cc3-490b03aee733
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:62b5c565-5e48-4f5f-befa-f0d0b53d22a9
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:99800bb9-6cb6-4f93-935f-d8ec75bd9fe0
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:839c58e3-f586-4065-8867-bc38c81de013
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:4b7331d1-1f65-478f-b374-01309524ed02
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ee51be91-168f-4452-9ccc-99f11603330e
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:0a619674-bf64-45e5-86d1-c83a611617f8
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 868:Replicating footprints on sheet ['DriverConnector7']
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:0a0745d8-713f-4b71-bd14-2594992b0466
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:9f6eafed-4daf-44c5-b5ab-c066ccf8dc50
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:a33bfa89-9175-4f1f-9740-b11700d9c26f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:403fcbae-cc14-4038-a180-1606b6e4adbe
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:8228cb16-87f9-4b81-9521-329851cfd224
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:de46d005-cbc1-4eec-98bd-cb35fa8b41d0
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:72b17e55-5857-4001-a1c4-3f0cb4e2cb5f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:2de5ff6c-91c4-4f51-b003-5a371defde74
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:7e686710-e9fa-4a70-a46e-5157f482622f
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:9dd7f183-5dc8-45be-900b-e50100dc881b
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:77071e0b-1f9d-4768-a2a3-153fb5b9fff2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:f2411dc4-b290-4b41-a09d-208b3b84c18c
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:2f29d23d-2a22-4e58-af5a-6d2ac9991ef5
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:5629eeeb-b298-4e69-b36a-2abe90f48e4a
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:c92ff84b-1002-4a50-97de-ecf931db50e2
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:1a756861-fa15-4682-b06a-48f24983e6e9
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ec2ce3e4-e070-451b-bacd-a0b8fb20f506
+11-21 23:20:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:5330b3df-953f-4b89-ac42-937bc5d7bced
+11-21 23:20:03 root 337:updating GUI with: 99
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:62b5c565-5e48-4f5f-befa-f0d0b53d22a9
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:6f35d722-8a7f-4369-8cea-9e7baa13a6dc
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:839c58e3-f586-4065-8867-bc38c81de013
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:6c37288e-dd76-44ed-b141-1ace1aa7e08e
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Src text UUid:ee51be91-168f-4452-9ccc-99f11603330e
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 986:Dst text UUid:c2229645-996c-40bb-84fa-d0b2722a4eaf
+11-21 23:20:04 root 332:updating GUI message: 'Replicating tracks'
+11-21 23:20:04 root 337:updating GUI with: 0
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1009:Replicating tracks
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1015:Replicating tracks on sheet ['DriverConnector1']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector1'] :[('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J28-INDEX-PadB17)'), ('unconnected-(J23-PadB16)', 'unconnected-(J28-PadB16)'), ('/DriverConnector/VIO', '/DriverConnector1/VIO'), ('/DriverConnector/OB2', '/DriverConnector1/OB2'), ('/DriverConnector/SPI_CS', '/DriverConnector1/SPI_CS'), ('/DriverConnector/OB1', '/DriverConnector1/OB1'), ('/DriverConnector/SPI_SDI', '/DriverConnector1/SPI_SDI'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J29-Pin_3-Pad3)'), ('/DriverConnector/DIAG', '/DriverConnector1/DIAG'), ('/DIR 0', '/DIR 1'), ('GND', 'GND'), ('unconnected-(J23-PadB12)', 'unconnected-(J28-PadB12)'), ('unconnected-(J23-PadB13)', 'unconnected-(J28-PadB13)'), ('unconnected-(J23-PadA10)', 'unconnected-(J28-PadA10)'), ('/DriverConnector/SPI_SDO', '/DriverConnector1/SPI_SDO'), ('/MOT UART1', '/MOT UART1'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J29-Pin_1-Pad1)'), ('/DriverConnector/Motor V0', '/DriverConnector1/Motor V0'), ('/DriverConnector/SPI_CLK', '/DriverConnector1/SPI_CLK'), ('', ''), ('/DriverConnector/OA2', '/DriverConnector1/OA2'), ('unconnected-(J23-PadB10)', 'unconnected-(J28-PadB10)'), ('/STEP 0', '/STEP 1'), ('/DriverConnector/OA1', '/DriverConnector1/OA1'), ('GND', '+3V3')]
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1015:Replicating tracks on sheet ['DriverConnector2']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector2'] :[('/DriverConnector/OB2', '/DriverConnector2/OB2'), ('/DriverConnector/OA2', '/DriverConnector2/OA2'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J32-Pin_1-Pad1)'), ('/STEP 0', '/STEP 2'), ('/DriverConnector/Motor V0', '/DriverConnector2/Motor V0'), ('unconnected-(J23-PadA10)', 'unconnected-(J31-PadA10)'), ('GND', 'GND'), ('unconnected-(J23-PadB10)', 'unconnected-(J31-PadB10)'), ('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J31-INDEX-PadB17)'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J32-Pin_3-Pad3)'), ('unconnected-(J23-PadB16)', 'unconnected-(J31-PadB16)'), ('/DriverConnector/OA1', '/DriverConnector2/OA1'), ('/DriverConnector/SPI_SDO', '/DriverConnector2/SPI_SDO'), ('/DIR 0', '/DIR 2'), ('/MOT UART1', '/MOT UART1'), ('unconnected-(J23-PadB12)', 'unconnected-(J31-PadB12)'), ('/DriverConnector/SPI_CLK', '/DriverConnector2/SPI_CLK'), ('/DriverConnector/VIO', '/DriverConnector2/VIO'), ('/DriverConnector/SPI_SDI', '/DriverConnector2/SPI_SDI'), ('', ''), ('/DriverConnector/DIAG', '/DriverConnector2/DIAG'), ('/DriverConnector/OB1', '/DriverConnector2/OB1'), ('unconnected-(J23-PadB13)', 'unconnected-(J31-PadB13)'), ('/DriverConnector/SPI_CS', '/DriverConnector2/SPI_CS'), ('GND', '+3V3')]
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1015:Replicating tracks on sheet ['DriverConnector3']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector3'] :[('unconnected-(J23-PadB16)', 'unconnected-(J34-PadB16)'), ('/DriverConnector/OA2', '/DriverConnector3/OA2'), ('/DriverConnector/DIAG', '/DriverConnector3/DIAG'), ('/DIR 0', '/DIR 3'), ('GND', 'GND'), ('/DriverConnector/SPI_SDO', '/DriverConnector3/SPI_SDO'), ('/DriverConnector/OB2', '/DriverConnector3/OB2'), ('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J34-INDEX-PadB17)'), ('/DriverConnector/VIO', '/DriverConnector3/VIO'), ('/MOT UART1', '/MOT UART1'), ('unconnected-(J23-PadA10)', 'unconnected-(J34-PadA10)'), ('/DriverConnector/SPI_CLK', '/DriverConnector3/SPI_CLK'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J35-Pin_3-Pad3)'), ('unconnected-(J23-PadB10)', 'unconnected-(J34-PadB10)'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J35-Pin_1-Pad1)'), ('/DriverConnector/OB1', '/DriverConnector3/OB1'), ('unconnected-(J23-PadB12)', 'unconnected-(J34-PadB12)'), ('/DriverConnector/OA1', '/DriverConnector3/OA1'), ('', ''), ('/STEP 0', '/STEP 3'), ('/DriverConnector/SPI_SDI', '/DriverConnector3/SPI_SDI'), ('/DriverConnector/SPI_CS', '/DriverConnector3/SPI_CS'), ('unconnected-(J23-PadB13)', 'unconnected-(J34-PadB13)'), ('/DriverConnector/Motor V0', '/DriverConnector3/Motor V0'), ('GND', '+3V3')]
+11-21 23:20:04 root 337:updating GUI with: 29
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1015:Replicating tracks on sheet ['DriverConnector4']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector4'] :[('/DriverConnector/OB1', '/DriverConnector4/OB1'), ('/DriverConnector/OA1', '/DriverConnector4/OA1'), ('/DriverConnector/SPI_SDI', '/DriverConnector4/SPI_SDI'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J38-Pin_1-Pad1)'), ('/DriverConnector/SPI_CS', '/DriverConnector4/SPI_CS'), ('unconnected-(J23-PadB16)', 'unconnected-(J37-PadB16)'), ('/STEP 0', '/STEP 4'), ('GND', 'GND'), ('/DIR 0', '/DIR 4'), ('/DriverConnector/Motor V0', '/DriverConnector4/Motor V0'), ('/DriverConnector/OB2', '/DriverConnector4/OB2'), ('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J37-INDEX-PadB17)'), ('unconnected-(J23-PadB10)', 'unconnected-(J37-PadB10)'), ('/MOT UART1', '/MOT UART2'), ('unconnected-(J23-PadA10)', 'unconnected-(J37-PadA10)'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J38-Pin_3-Pad3)'), ('/DriverConnector/VIO', '/DriverConnector4/VIO'), ('/DriverConnector/DIAG', '/DriverConnector4/DIAG'), ('/DriverConnector/OA2', '/DriverConnector4/OA2'), ('', ''), ('unconnected-(J23-PadB12)', 'unconnected-(J37-PadB12)'), ('unconnected-(J23-PadB13)', 'unconnected-(J37-PadB13)'), ('/DriverConnector/SPI_CLK', '/DriverConnector4/SPI_CLK'), ('/DriverConnector/SPI_SDO', '/DriverConnector4/SPI_SDO')]
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1015:Replicating tracks on sheet ['DriverConnector5']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector5'] :[('unconnected-(J23-PadB13)', 'unconnected-(J40-PadB13)'), ('unconnected-(J23-PadA10)', 'unconnected-(J40-PadA10)'), ('/STEP 0', '/STEP 5'), ('/DIR 0', '/DIR 5'), ('/DriverConnector/OB2', '/DriverConnector5/OB2'), ('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J40-INDEX-PadB17)'), ('unconnected-(J23-PadB10)', 'unconnected-(J40-PadB10)'), ('unconnected-(J23-PadB12)', 'unconnected-(J40-PadB12)'), ('GND', 'GND'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J41-Pin_1-Pad1)'), ('/DriverConnector/Motor V0', '/DriverConnector5/Motor V0'), ('/DriverConnector/SPI_SDO', '/DriverConnector5/SPI_SDO'), ('/DriverConnector/OA2', '/DriverConnector5/OA2'), ('/MOT UART1', '/MOT UART2'), ('/DriverConnector/OB1', '/DriverConnector5/OB1'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J41-Pin_3-Pad3)'), ('/DriverConnector/VIO', '/DriverConnector5/VIO'), ('/DriverConnector/SPI_CS', '/DriverConnector5/SPI_CS'), ('/DriverConnector/DIAG', '/DriverConnector5/DIAG'), ('', ''), ('/DriverConnector/SPI_CLK', '/DriverConnector5/SPI_CLK'), ('unconnected-(J23-PadB16)', 'unconnected-(J40-PadB16)'), ('/DriverConnector/SPI_SDI', '/DriverConnector5/SPI_SDI'), ('GND', '+3V3'), ('/DriverConnector/OA1', '/DriverConnector5/OA1')]
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1015:Replicating tracks on sheet ['DriverConnector6']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector6'] :[('/DriverConnector/OA2', '/DriverConnector6/OA2'), ('unconnected-(J23-PadA10)', 'unconnected-(J43-PadA10)'), ('/DriverConnector/SPI_CS', '/DriverConnector6/SPI_CS'), ('/DriverConnector/OB1', '/DriverConnector6/OB1'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J44-Pin_1-Pad1)'), ('/DriverConnector/OA1', '/DriverConnector6/OA1'), ('/DriverConnector/OB2', '/DriverConnector6/OB2'), ('/DriverConnector/VIO', '/DriverConnector6/VIO'), ('/DriverConnector/DIAG', '/DriverConnector6/DIAG'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J44-Pin_3-Pad3)'), ('GND', 'GND'), ('/STEP 0', '/STEP 6'), ('unconnected-(J23-PadB16)', 'unconnected-(J43-PadB16)'), ('/DriverConnector/Motor V0', '/DriverConnector6/Motor V0'), ('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J43-INDEX-PadB17)'), ('/DIR 0', '/DIR 6'), ('/DriverConnector/SPI_CLK', '/DriverConnector6/SPI_CLK'), ('/MOT UART1', '/MOT UART2'), ('/DriverConnector/SPI_SDI', '/DriverConnector6/SPI_SDI'), ('', ''), ('/DriverConnector/SPI_SDO', '/DriverConnector6/SPI_SDO'), ('unconnected-(J23-PadB12)', 'unconnected-(J43-PadB12)'), ('unconnected-(J23-PadB10)', 'unconnected-(J43-PadB10)'), ('unconnected-(J23-PadB13)', 'unconnected-(J43-PadB13)'), ('GND', '+3V3')]
+11-21 23:20:04 root 337:updating GUI with: 71
+11-21 23:20:04 root 337:updating GUI with: 72
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1015:Replicating tracks on sheet ['DriverConnector7']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector7'] :[('/STEP 0', '/STEP 7'), ('/DriverConnector/OB1', '/DriverConnector7/OB1'), ('/DriverConnector/VIO', '/DriverConnector7/VIO'), ('/DriverConnector/SPI_SDI', '/DriverConnector7/SPI_SDI'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J47-Pin_3-Pad3)'), ('/DriverConnector/Motor V0', '/DriverConnector7/Motor V0'), ('/DriverConnector/DIAG', '/DriverConnector7/DIAG'), ('unconnected-(J23-PadB16)', 'unconnected-(J46-PadB16)'), ('/DriverConnector/OB2', '/DriverConnector7/OB2'), ('unconnected-(J23-PadB10)', 'unconnected-(J46-PadB10)'), ('/DriverConnector/OA1', '/DriverConnector7/OA1'), ('GND', 'GND'), ('/DIR 0', '/DIR 7'), ('unconnected-(J23-PadB12)', 'unconnected-(J46-PadB12)'), ('/MOT UART1', '/MOT UART2'), ('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J46-INDEX-PadB17)'), ('/DriverConnector/OA2', '/DriverConnector7/OA2'), ('', ''), ('unconnected-(J23-PadA10)', 'unconnected-(J46-PadA10)'), ('/DriverConnector/SPI_CLK', '/DriverConnector7/SPI_CLK'), ('/DriverConnector/SPI_CS', '/DriverConnector7/SPI_CS'), ('/DriverConnector/SPI_SDO', '/DriverConnector7/SPI_SDO'), ('unconnected-(J23-PadB13)', 'unconnected-(J46-PadB13)'), ('GND', '+3V3'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J47-Pin_1-Pad1)')]
+11-21 23:20:04 root 332:updating GUI message: 'Replicating zones'
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1079:Replicating zones
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1086:Replicating zones on sheet ['DriverConnector1']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector1'] :[('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J28-INDEX-PadB17)'), ('unconnected-(J23-PadB16)', 'unconnected-(J28-PadB16)'), ('/DriverConnector/VIO', '/DriverConnector1/VIO'), ('/DriverConnector/OB2', '/DriverConnector1/OB2'), ('/DriverConnector/SPI_CS', '/DriverConnector1/SPI_CS'), ('/DriverConnector/OB1', '/DriverConnector1/OB1'), ('/DriverConnector/SPI_SDI', '/DriverConnector1/SPI_SDI'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J29-Pin_3-Pad3)'), ('/DriverConnector/DIAG', '/DriverConnector1/DIAG'), ('/DIR 0', '/DIR 1'), ('GND', 'GND'), ('unconnected-(J23-PadB12)', 'unconnected-(J28-PadB12)'), ('unconnected-(J23-PadB13)', 'unconnected-(J28-PadB13)'), ('unconnected-(J23-PadA10)', 'unconnected-(J28-PadA10)'), ('/DriverConnector/SPI_SDO', '/DriverConnector1/SPI_SDO'), ('/MOT UART1', '/MOT UART1'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J29-Pin_1-Pad1)'), ('/DriverConnector/Motor V0', '/DriverConnector1/Motor V0'), ('/DriverConnector/SPI_CLK', '/DriverConnector1/SPI_CLK'), ('', ''), ('/DriverConnector/OA2', '/DriverConnector1/OA2'), ('unconnected-(J23-PadB10)', 'unconnected-(J28-PadB10)'), ('/STEP 0', '/STEP 1'), ('/DriverConnector/OA1', '/DriverConnector1/OA1'), ('GND', '+3V3')]
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1086:Replicating zones on sheet ['DriverConnector2']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector2'] :[('/DriverConnector/OB2', '/DriverConnector2/OB2'), ('/DriverConnector/OA2', '/DriverConnector2/OA2'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J32-Pin_1-Pad1)'), ('/STEP 0', '/STEP 2'), ('/DriverConnector/Motor V0', '/DriverConnector2/Motor V0'), ('unconnected-(J23-PadA10)', 'unconnected-(J31-PadA10)'), ('GND', 'GND'), ('unconnected-(J23-PadB10)', 'unconnected-(J31-PadB10)'), ('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J31-INDEX-PadB17)'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J32-Pin_3-Pad3)'), ('unconnected-(J23-PadB16)', 'unconnected-(J31-PadB16)'), ('/DriverConnector/OA1', '/DriverConnector2/OA1'), ('/DriverConnector/SPI_SDO', '/DriverConnector2/SPI_SDO'), ('/DIR 0', '/DIR 2'), ('/MOT UART1', '/MOT UART1'), ('unconnected-(J23-PadB12)', 'unconnected-(J31-PadB12)'), ('/DriverConnector/SPI_CLK', '/DriverConnector2/SPI_CLK'), ('/DriverConnector/VIO', '/DriverConnector2/VIO'), ('/DriverConnector/SPI_SDI', '/DriverConnector2/SPI_SDI'), ('', ''), ('/DriverConnector/DIAG', '/DriverConnector2/DIAG'), ('/DriverConnector/OB1', '/DriverConnector2/OB1'), ('unconnected-(J23-PadB13)', 'unconnected-(J31-PadB13)'), ('/DriverConnector/SPI_CS', '/DriverConnector2/SPI_CS'), ('GND', '+3V3')]
+11-21 23:20:04 root 337:updating GUI with: 28
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1086:Replicating zones on sheet ['DriverConnector3']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector3'] :[('unconnected-(J23-PadB16)', 'unconnected-(J34-PadB16)'), ('/DriverConnector/OA2', '/DriverConnector3/OA2'), ('/DriverConnector/DIAG', '/DriverConnector3/DIAG'), ('/DIR 0', '/DIR 3'), ('GND', 'GND'), ('/DriverConnector/SPI_SDO', '/DriverConnector3/SPI_SDO'), ('/DriverConnector/OB2', '/DriverConnector3/OB2'), ('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J34-INDEX-PadB17)'), ('/DriverConnector/VIO', '/DriverConnector3/VIO'), ('/MOT UART1', '/MOT UART1'), ('unconnected-(J23-PadA10)', 'unconnected-(J34-PadA10)'), ('/DriverConnector/SPI_CLK', '/DriverConnector3/SPI_CLK'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J35-Pin_3-Pad3)'), ('unconnected-(J23-PadB10)', 'unconnected-(J34-PadB10)'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J35-Pin_1-Pad1)'), ('/DriverConnector/OB1', '/DriverConnector3/OB1'), ('unconnected-(J23-PadB12)', 'unconnected-(J34-PadB12)'), ('/DriverConnector/OA1', '/DriverConnector3/OA1'), ('', ''), ('/STEP 0', '/STEP 3'), ('/DriverConnector/SPI_SDI', '/DriverConnector3/SPI_SDI'), ('/DriverConnector/SPI_CS', '/DriverConnector3/SPI_CS'), ('unconnected-(J23-PadB13)', 'unconnected-(J34-PadB13)'), ('/DriverConnector/Motor V0', '/DriverConnector3/Motor V0'), ('GND', '+3V3')]
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1086:Replicating zones on sheet ['DriverConnector4']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector4'] :[('/DriverConnector/OB1', '/DriverConnector4/OB1'), ('/DriverConnector/OA1', '/DriverConnector4/OA1'), ('/DriverConnector/SPI_SDI', '/DriverConnector4/SPI_SDI'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J38-Pin_1-Pad1)'), ('/DriverConnector/SPI_CS', '/DriverConnector4/SPI_CS'), ('unconnected-(J23-PadB16)', 'unconnected-(J37-PadB16)'), ('/STEP 0', '/STEP 4'), ('GND', 'GND'), ('/DIR 0', '/DIR 4'), ('/DriverConnector/Motor V0', '/DriverConnector4/Motor V0'), ('/DriverConnector/OB2', '/DriverConnector4/OB2'), ('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J37-INDEX-PadB17)'), ('unconnected-(J23-PadB10)', 'unconnected-(J37-PadB10)'), ('/MOT UART1', '/MOT UART2'), ('unconnected-(J23-PadA10)', 'unconnected-(J37-PadA10)'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J38-Pin_3-Pad3)'), ('/DriverConnector/VIO', '/DriverConnector4/VIO'), ('/DriverConnector/DIAG', '/DriverConnector4/DIAG'), ('/DriverConnector/OA2', '/DriverConnector4/OA2'), ('', ''), ('unconnected-(J23-PadB12)', 'unconnected-(J37-PadB12)'), ('unconnected-(J23-PadB13)', 'unconnected-(J37-PadB13)'), ('/DriverConnector/SPI_CLK', '/DriverConnector4/SPI_CLK'), ('/DriverConnector/SPI_SDO', '/DriverConnector4/SPI_SDO')]
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1086:Replicating zones on sheet ['DriverConnector5']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector5'] :[('unconnected-(J23-PadB13)', 'unconnected-(J40-PadB13)'), ('unconnected-(J23-PadA10)', 'unconnected-(J40-PadA10)'), ('/STEP 0', '/STEP 5'), ('/DIR 0', '/DIR 5'), ('/DriverConnector/OB2', '/DriverConnector5/OB2'), ('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J40-INDEX-PadB17)'), ('unconnected-(J23-PadB10)', 'unconnected-(J40-PadB10)'), ('unconnected-(J23-PadB12)', 'unconnected-(J40-PadB12)'), ('GND', 'GND'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J41-Pin_1-Pad1)'), ('/DriverConnector/Motor V0', '/DriverConnector5/Motor V0'), ('/DriverConnector/SPI_SDO', '/DriverConnector5/SPI_SDO'), ('/DriverConnector/OA2', '/DriverConnector5/OA2'), ('/MOT UART1', '/MOT UART2'), ('/DriverConnector/OB1', '/DriverConnector5/OB1'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J41-Pin_3-Pad3)'), ('/DriverConnector/VIO', '/DriverConnector5/VIO'), ('/DriverConnector/SPI_CS', '/DriverConnector5/SPI_CS'), ('/DriverConnector/DIAG', '/DriverConnector5/DIAG'), ('', ''), ('/DriverConnector/SPI_CLK', '/DriverConnector5/SPI_CLK'), ('unconnected-(J23-PadB16)', 'unconnected-(J40-PadB16)'), ('/DriverConnector/SPI_SDI', '/DriverConnector5/SPI_SDI'), ('GND', '+3V3'), ('/DriverConnector/OA1', '/DriverConnector5/OA1')]
+11-21 23:20:04 root 337:updating GUI with: 71
+11-21 23:20:04 root 337:updating GUI with: 71
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1086:Replicating zones on sheet ['DriverConnector6']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector6'] :[('/DriverConnector/OA2', '/DriverConnector6/OA2'), ('unconnected-(J23-PadA10)', 'unconnected-(J43-PadA10)'), ('/DriverConnector/SPI_CS', '/DriverConnector6/SPI_CS'), ('/DriverConnector/OB1', '/DriverConnector6/OB1'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J44-Pin_1-Pad1)'), ('/DriverConnector/OA1', '/DriverConnector6/OA1'), ('/DriverConnector/OB2', '/DriverConnector6/OB2'), ('/DriverConnector/VIO', '/DriverConnector6/VIO'), ('/DriverConnector/DIAG', '/DriverConnector6/DIAG'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J44-Pin_3-Pad3)'), ('GND', 'GND'), ('/STEP 0', '/STEP 6'), ('unconnected-(J23-PadB16)', 'unconnected-(J43-PadB16)'), ('/DriverConnector/Motor V0', '/DriverConnector6/Motor V0'), ('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J43-INDEX-PadB17)'), ('/DIR 0', '/DIR 6'), ('/DriverConnector/SPI_CLK', '/DriverConnector6/SPI_CLK'), ('/MOT UART1', '/MOT UART2'), ('/DriverConnector/SPI_SDI', '/DriverConnector6/SPI_SDI'), ('', ''), ('/DriverConnector/SPI_SDO', '/DriverConnector6/SPI_SDO'), ('unconnected-(J23-PadB12)', 'unconnected-(J43-PadB12)'), ('unconnected-(J23-PadB10)', 'unconnected-(J43-PadB10)'), ('unconnected-(J23-PadB13)', 'unconnected-(J43-PadB13)'), ('GND', '+3V3')]
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1086:Replicating zones on sheet ['DriverConnector7']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 792:Net pairs for sheet ['DriverConnector7'] :[('/STEP 0', '/STEP 7'), ('/DriverConnector/OB1', '/DriverConnector7/OB1'), ('/DriverConnector/VIO', '/DriverConnector7/VIO'), ('/DriverConnector/SPI_SDI', '/DriverConnector7/SPI_SDI'), ('unconnected-(J25-Pin_3-Pad3)', 'unconnected-(J47-Pin_3-Pad3)'), ('/DriverConnector/Motor V0', '/DriverConnector7/Motor V0'), ('/DriverConnector/DIAG', '/DriverConnector7/DIAG'), ('unconnected-(J23-PadB16)', 'unconnected-(J46-PadB16)'), ('/DriverConnector/OB2', '/DriverConnector7/OB2'), ('unconnected-(J23-PadB10)', 'unconnected-(J46-PadB10)'), ('/DriverConnector/OA1', '/DriverConnector7/OA1'), ('GND', 'GND'), ('/DIR 0', '/DIR 7'), ('unconnected-(J23-PadB12)', 'unconnected-(J46-PadB12)'), ('/MOT UART1', '/MOT UART2'), ('unconnected-(J23-INDEX-PadB17)', 'unconnected-(J46-INDEX-PadB17)'), ('/DriverConnector/OA2', '/DriverConnector7/OA2'), ('', ''), ('unconnected-(J23-PadA10)', 'unconnected-(J46-PadA10)'), ('/DriverConnector/SPI_CLK', '/DriverConnector7/SPI_CLK'), ('/DriverConnector/SPI_CS', '/DriverConnector7/SPI_CS'), ('/DriverConnector/SPI_SDO', '/DriverConnector7/SPI_SDO'), ('unconnected-(J23-PadB13)', 'unconnected-(J46-PadB13)'), ('GND', '+3V3'), ('unconnected-(J25-Pin_1-Pad1)', 'unconnected-(J47-Pin_1-Pad1)')]
+11-21 23:20:04 root 332:updating GUI message: 'Replicating text'
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1168:Replicating text
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1175:Replicating text on sheet ['DriverConnector1']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1175:Replicating text on sheet ['DriverConnector2']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1175:Replicating text on sheet ['DriverConnector3']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1175:Replicating text on sheet ['DriverConnector4']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1175:Replicating text on sheet ['DriverConnector5']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1175:Replicating text on sheet ['DriverConnector6']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1175:Replicating text on sheet ['DriverConnector7']
+11-21 23:20:04 root 332:updating GUI message: 'Replicating drawings'
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1219:Replicating drawings
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1225:Replicating drawings on sheet ['DriverConnector1']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1225:Replicating drawings on sheet ['DriverConnector2']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1225:Replicating drawings on sheet ['DriverConnector3']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1225:Replicating drawings on sheet ['DriverConnector4']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1225:Replicating drawings on sheet ['DriverConnector5']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1225:Replicating drawings on sheet ['DriverConnector6']
+11-21 23:20:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1225:Replicating drawings on sheet ['DriverConnector7']
+11-21 23:20:05 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 256:Replication complete

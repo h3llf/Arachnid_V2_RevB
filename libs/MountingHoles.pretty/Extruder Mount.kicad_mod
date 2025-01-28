@@ -1,0 +1,98 @@
+(footprint "Extruder Mount"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -17.9 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "318468c7-63ff-495f-9c4e-6de2c7128080")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Extruder Mount"
+		(at 0 14.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "61124bee-5e01-42b3-89de-fca3afac8b38")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 13.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2aa4341a-5366-4bb3-b5ae-2f8519a8ccb1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 13.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c0345d5e-b52b-4bfa-8beb-c553f673f3cc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 13.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed69390e-6351-44c9-a3ab-07f36b7ba2cd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "${REFERENCE}"
+		(at 0 16.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "58520b99-5828-4a57-8e01-9d1c513dfad8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole oval
+		(at 0 -10)
+		(size 30.8 3.8)
+		(drill oval 30 3.2)
+		(layers "F&B.Cu" "*.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "b9dcb175-40b8-4983-b319-d68fbbc44c4b")
+	)
+	(pad "" np_thru_hole oval
+		(at 0 10)
+		(size 30.8 3.8)
+		(drill oval 30 3.2)
+		(layers "F&B.Cu" "*.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "7151840c-978e-4398-bcd7-6f32743b95c5")
+	)
+)
